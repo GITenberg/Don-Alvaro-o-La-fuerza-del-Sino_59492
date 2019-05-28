@@ -1,0 +1,26 @@
+_repo: Don-Alvaro-o-La-fuerza-del-Sino_59492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rivas, Angel de Saavedra, duque de
+    aliases:
+    - Saavedra, Angel de, duque de Rivas
+    - Baquedano, Angel Pérez de Saavedra Ramírez de Madrid Remírez de, duque de Rivas
+    - Baquedano, Angel Perez de Saavedra Ramirez de Madrid Remirez de, duque de Rivas
+    birthdate: 1791
+    deathdate: 1865
+    gutenberg_agent_id: '49558'
+    url: http://www.gutenberg.org/2009/agents/49558
+description: ''
+gutenberg_issued: '2019-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59492'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Don Álvaro o La fuerza del Sino
+url: http://www.gutenberg.org/ebooks/59492
